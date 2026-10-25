@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792922290|65576675143';
+const CACHE_VERSION = '1792923805|55773830';
 /** @type {string} */
 const CACHE_PREFIX = 'ZooVoxel-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
